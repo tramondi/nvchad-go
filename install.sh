@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NVIM_PATH='~/.config/nvim'
+NVIM_PATH="$HOME/.config/nvim"
 CUSTOM_PATH="${NVIM_PATH}/lua/custom"
 TARGET_PATH="/tmp/nvchad-go"
 
