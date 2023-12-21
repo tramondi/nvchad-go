@@ -36,4 +36,3 @@ lspconfig.bashls.setup{}
 lspconfig.volar.setup{
   filetypes = {'typescript', 'javascript', 'vue', 'json'}
 }
-lspconfig.csharp_ls.setup{}
