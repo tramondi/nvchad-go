@@ -16,7 +16,7 @@ fi
 
 echo 'installing nvchad-go custom configs…'
 if [[ ! -d ${CUSTOM_PATH} ]]; then
-  git clone https://github.com/alionapermes/nvchad-go ${TARGET_PATH} --depth 1
+  git clone https://github.com/tramondi/nvchad-go ${TARGET_PATH} --depth 1
 
   mv ${TARGET_PATH}/lua/custom ${CUSTOM_PATH}
   rm -rf ${TARGET_PATH}
