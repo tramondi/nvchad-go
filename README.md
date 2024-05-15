@@ -47,5 +47,5 @@ npm install -g @vue/language-server
 
 ## install
 ```sh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/alionapermes/nvchad-go/master/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/tramondi/nvchad-go/master/install.sh)"
 ```
